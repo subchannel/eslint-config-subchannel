@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-subchannel",
+  "version": "1.0.0",
+  "description": "Shared ESLint config for Subchannel projects",
+  "keywords": [
+    "subchannel",
+    "eslint",
+    "eslintconfig"
+  ],
+  "homepage": "https://github.com/subchannel/eslint-config-subchannel#readme",
+  "bugs": {
+    "url": "https://github.com/subchannel/eslint-config-subchannel/issues",
+    "email": "code@subchannel.io"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Subchannel Engineering <code@subchannel.io> (http://subchannel.io)",
+  "files": [
+    "rules",
+    "AUTHORS",
+    "legacy.js",
+    "react.js"
+  ],
+  "main": "index.js",
+  "repository": "subchannel/eslint-config-subchannel",
+  "dependencies": {
+    "eslint": "^2.3.0",
+    "eslint-config-airbnb": "^6.1.0"
+  }
+}
