@@ -6,10 +6,10 @@ A shared [ESLint](http://eslint.org) config for Subchannel projects, built on to
 
 ### Usage
 
-To install ESLint and the Subchannel config you simply use a version of [npm](https://www.npmjs.com) later than 3.0.0 and install it.
+To install ESLint and the Subchannel config you simply use a version of [npm](https://www.npmjs.com) later than 3.0.0 and install them.
 
 ```
-$ npm install --save-dev eslint-config-subchannel
+$ npm install --save-dev eslint eslint-config-subchannel
 ```
 
 Then extend the Subchannel config in your project’s `.eslintrc` file.
