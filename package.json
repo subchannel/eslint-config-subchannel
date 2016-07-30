@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-subchannel",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "A code style guide and ESLint configuration for maintaining consistency across Subchannel projects",
   "keywords": [
     "subchannel",

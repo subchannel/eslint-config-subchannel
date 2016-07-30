@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [3.0.0] - 2016-07-30
+
 - Remove Airbnb dependency
 - Remove React plugin
 - Customize all ESLint rules
@@ -23,7 +25,8 @@ All notable changes to this project will be documented in this file.
 - Extend `eslint-config-airbnb`
 - Override `comma-dangle` rule
 
-[unreleased]: https://github.com/subchannel/javascript/compare/2.0.1...HEAD
+[unreleased]: https://github.com/subchannel/javascript/compare/3.0.0...HEAD
+[3.0.0]: https://github.com/subchannel/javascript/compare/2.0.1...3.0.0
 [2.0.1]: https://github.com/subchannel/javascript/compare/2.0.0...2.0.1
 [2.0.0]: https://github.com/subchannel/javascript/compare/1.0.0...2.0.0
 [1.0.0]: https://github.com/subchannel/javascript/releases/tag/1.0.0
