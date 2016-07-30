@@ -1,25 +1,26 @@
-# eslint-config-subchannel
+# JavaScript
 
-### Introduction
+A _hopefully_ sane JavaScript code styleguide for [Subchannel](https://subchannel.io) projects. To maintain conformance we created a shareable [ESLint](http://eslint.org) configuration package which is included in this repository.
 
-A shared [ESLint](http://eslint.org) config for Subchannel projects, built on top of the [Airbnb ESLint config](https://github.com/airbnb/javascript/blob/master/packages/eslint-config-airbnb).
+![](assets/javascript-logo.png)
+![](assets/eslint-logo.png)
 
-### Usage
+## Installation and Usage
 
-To install ESLint and the Subchannel config you simply use a version of [npm](https://www.npmjs.com) later than 3.0.0 and install them.
+First install ESLint and the Subchannel configuration and save them to your project’s `devDependencies` using [npm](https://npmjs.com). _You may choose to install them globally but that is up to you._
 
 ```
 $ npm install --save-dev eslint eslint-config-subchannel
 ```
 
-Then extend the Subchannel config in your project’s `.eslintrc` file.
+Create or modify your project’s `.eslintrc` file to extend from the Subchannel configuration.
 
 ```json
 {
-    "extends": "subchannel"
+  "extends": "subchannel"
 }
 ```
 
-If your project is using ES5 and below you can extend `subchannel/legacy` instead.
+Now when you run `eslint` it will use the Subchannel configuration.
 
-Or if your project is using [React](http://facebook.github.io/react) and `.jsx` files, you can install the `eslint-plugin-react` package and extend `subchannel/react`.
+_More detailed and thorough guides for installing and integrating ESLint with developer tools like [Atom](https://atom.io) and [Sublime Text](https://www.sublimetext.com) can be found on their website, [http://eslint.org](http://eslint.org)._
