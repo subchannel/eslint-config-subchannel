@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Change repository name
+
 ## [2.0.0] - 2016-03-09
 
 - Move `eslint` to peer dependencies
@@ -14,6 +16,6 @@ All notable changes to this project will be documented in this file.
 - Extend `eslint-config-airbnb`
 - Override `comma-dangle` rule
 
-[unreleased]: https://github.com/subchannel/eslint-config-subchannel/compare/2.0.0...HEAD
-[2.0.0]: https://github.com/subchannel/eslint-config-subchannel/releases/tag/2.0.0
-[1.0.0]: https://github.com/subchannel/eslint-config-subchannel/releases/tag/1.0.0
+[unreleased]: https://github.com/subchannel/javascript/compare/2.0.0...HEAD
+[2.0.0]: https://github.com/subchannel/javascript/compare/1.0.0...2.0.0
+[1.0.0]: https://github.com/subchannel/javascript/releases/tag/1.0.0

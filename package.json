@@ -7,9 +7,9 @@
     "eslint",
     "eslintconfig"
   ],
-  "homepage": "https://github.com/subchannel/eslint-config-subchannel#readme",
+  "homepage": "https://github.com/subchannel/javascript#readme",
   "bugs": {
-    "url": "https://github.com/subchannel/eslint-config-subchannel/issues",
+    "url": "https://github.com/subchannel/javascript/issues",
     "email": "code@subchannel.io"
   },
   "license": "SEE LICENSE IN LICENSE",
@@ -21,7 +21,7 @@
     "react.js"
   ],
   "main": "index.js",
-  "repository": "subchannel/eslint-config-subchannel",
+  "repository": "subchannel/javascript",
   "dependencies": {
     "eslint-config-airbnb": "^6.1.0"
   },
