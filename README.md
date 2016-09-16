@@ -5,6 +5,8 @@ A _hopefully_ sane JavaScript code styleguide for [Subchannel](https://subchanne
 ![](assets/javascript-logo.png)
 ![](assets/eslint-logo.png)
 
+[![Codeship Status for subchannel/javascript](https://codeship.com/projects/09cfc470-3761-0134-69ff-2a5bcb0fc348/status?branch=master)](https://codeship.com/projects/165791)
+
 ## Installation and Usage
 
 First install ESLint and the Subchannel configuration and save them to your project’s `devDependencies` using [npm](https://npmjs.com). _You may choose to install them globally but that is up to you._
