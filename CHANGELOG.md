@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Bump some dev dependency versions
+
 ## [3.0.0] - 2016-07-30
 
 - Remove Airbnb dependency
