@@ -22,7 +22,7 @@
     "test": "NODE_ENV=test mocha test"
   },
   "devDependencies": {
-    "eslint": "^3.5.0",
+    "eslint": "^3.7.1",
     "eslint-config-subchannel": "./",
     "mocha": "^3.1.2"
   }
