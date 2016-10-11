@@ -18,10 +18,12 @@
   "main": "lib/index.js",
   "repository": "subchannel/javascript",
   "scripts": {
-    "test": "eslint lib"
+    "pretest": "eslint lib test",
+    "test": "NODE_ENV=test mocha test"
   },
   "devDependencies": {
     "eslint": "^3.5.0",
-    "eslint-config-subchannel": "./"
+    "eslint-config-subchannel": "./",
+    "mocha": "^3.1.2"
   }
 }
