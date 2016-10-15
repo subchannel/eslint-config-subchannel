@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Remove self as a dev dependency
 - Add simple test instead of only linting
 - Bump some dev dependency versions
 
