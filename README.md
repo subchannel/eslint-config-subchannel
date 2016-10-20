@@ -6,6 +6,7 @@ A _hopefully_ sane JavaScript code styleguide for [Subchannel](https://subchanne
 ![](assets/eslint-logo.png)
 
 [![Codeship Status for subchannel/javascript](https://codeship.com/projects/09cfc470-3761-0134-69ff-2a5bcb0fc348/status?branch=master)](https://codeship.com/projects/165791)
+[![Code Climate](https://codeclimate.com/repos/58080aa40cb08c0073001dcd/badges/f1cb85248528413cd869/gpa.svg)](https://codeclimate.com/repos/58080aa40cb08c0073001dcd/feed)
 
 ## Installation and Usage
 
