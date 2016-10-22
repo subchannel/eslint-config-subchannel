@@ -10,9 +10,10 @@ A _hopefully_ sane JavaScript code styleguide for [Subchannel](https://subchanne
 
 ## Installation and Usage
 
-First install ESLint and the Subchannel configuration and save them to your project’s `devDependencies` using [npm](https://npmjs.com). _You may choose to install them globally but that is up to you._
+First install ESLint and the Subchannel configuration and save them to your project’s `devDependencies` using [Yarn](https://yarnpkg.com) or [npm](https://npmjs.com). _You may choose to install them globally but that is up to you._
 
 ```
+$ yarn add --dev eslint eslint-config-subchannel
 $ npm install --save-dev eslint eslint-config-subchannel
 ```
 
