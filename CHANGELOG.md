@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Loosen 'newline-per-chained-call' config
 - Switch to `jest` testing framework
 - Remove self as a dev dependency
 - Add simple test instead of only linting
