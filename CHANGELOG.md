@@ -8,9 +8,12 @@ All notable changes to this project will be documented in this file.
 - Remove `env` definition as it should be defined per project
 - Loosen 'newline-per-chained-call' config
 - Switch to `jest` testing framework
+- Add ratings paths to Code Climate config
+- Add Code Climate badge and config file
 - Remove self as a dev dependency
 - Add simple test instead of only linting
 - Bump some dev dependency versions
+- Add Codeship badge to README
 
 ## [3.0.0] - 2016-07-30
 
