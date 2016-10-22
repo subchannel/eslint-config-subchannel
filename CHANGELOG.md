@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [4.0.0] - 2016-10-22
+
 - Bump eslint version and make it a peerDependency
 - Add Yarn details to README and ignore yarn-error.log
 - Remove `env` definition as it should be defined per project
@@ -37,7 +39,8 @@ All notable changes to this project will be documented in this file.
 - Extend `eslint-config-airbnb`
 - Override `comma-dangle` rule
 
-[unreleased]: https://github.com/subchannel/javascript/compare/3.0.0...HEAD
+[unreleased]: https://github.com/subchannel/javascript/compare/4.0.0...HEAD
+[4.0.0]: https://github.com/subchannel/javascript/compare/3.0.0...4.0.0
 [3.0.0]: https://github.com/subchannel/javascript/compare/2.0.1...3.0.0
 [2.0.1]: https://github.com/subchannel/javascript/compare/2.0.0...2.0.1
 [2.0.0]: https://github.com/subchannel/javascript/compare/1.0.0...2.0.0
