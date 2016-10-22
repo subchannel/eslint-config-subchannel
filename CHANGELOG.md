@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Bump eslint version and make it a peerDependency
 - Add Yarn details to README and ignore yarn-error.log
 - Remove `env` definition as it should be defined per project
 - Loosen 'newline-per-chained-call' config
