@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- Remove `env` definition as it should be defined per project
 - Loosen 'newline-per-chained-call' config
 - Switch to `jest` testing framework
 - Remove self as a dev dependency
